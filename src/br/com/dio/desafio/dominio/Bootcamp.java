@@ -18,7 +18,7 @@ public class Bootcamp {
         return nome;
     }
 
-    public void setName(String name) {
+    public void setNome(String name) {
         this.nome = nome;
     }
 
